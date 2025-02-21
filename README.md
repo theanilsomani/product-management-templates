@@ -1,6 +1,7 @@
 ## Product Management Templates to help you undesrtand, plan, manage
 ---
 ## File Structure
+```
 +---PDFs
 |       25+ high-resolution PM infographics (PDFs).docx
 |       Emapthy Map.pdf
@@ -72,3 +73,4 @@
         [PM] RICE Framework by Pawel Huryn.xlsx
         [PM] Value Curve Template by Pawel Huryn.xlsx
         [PM] Weighted Decision prioritization by Pawel Huryn.xlsx
+```
