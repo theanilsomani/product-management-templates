@@ -1,4 +1,4 @@
-## Product Management Templates to help you undesrtand, plan, manage
+## Product Management Templates to help you understand, plan, manage
 ---
 ## File Structure
 ```
